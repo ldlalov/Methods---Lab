@@ -14,7 +14,7 @@ namespace _09._Greater_of_Two_Values
         }
         static string GetMax(string string1, string string2)
         {
-            return (string1 == string2) ? string2 : string1;
+            return (string1 == string2) ? string1 : string2;
         }
         static void Main(string[] args)
         {
